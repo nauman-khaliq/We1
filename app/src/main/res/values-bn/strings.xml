@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ MIT License
+  ~
+  ~ Copyright (c) 2020 Nauman Khaliq
+  ~
+  -->
+<resources>
+    <string name="app_name">রান্নাঘর</string>
+    <string name="text_no_connectivity">সংযোগ নেই</string>
+    <string name="text_connectivity">ফিরে অনলাইন</string>
+    <string name="text_post_header">পোস্ট হেডার</string>
+    <string name="exit_dialog_message">তুমি কী নিশ্চিত বাহির হতে চাও?</string>
+    <string name="exit_dialog_title">প্রস্থান করবেন?</string>
+    <string name="option_yes">হ্যাঁ</string>
+    <string name="option_no">না</string>
+    <string name="share_message" translatable="false">\"%s\" by %s. \nVisit: https://github.com/PatilShreyas/Foodium</string>
+    <string name="add">যোগ করুন</string>
+    <string name="password">পাসওয়ার্ড</string>
+    <string name="username">ব্যবহারকারীর নাম</string>
+    <string name="user_authentication">ব্যবহারকারী প্রমাণীকরণ</string>
+    <string name="login">প্রবেশ করুন</string>
+    <string name="cancel">বাতিল করুন</string>
+    <string name="connecting">সংযোগ করা হচ্ছে…</string>
+    <string name="deliver">বিলি</string>
+    <string name="quick_view">তারাতারি দেখা</string>
+    <string name="columns">কলাম</string>
+    <string name="merged">একত্রিত হয়েছে</string>
+    <string name="settings">সেটিংস</string>
+    <string name="server_address">সার্ভার ঠিকানা</string>
+    <string name="server_address_description">নিশ্চিত করুন যে ঠিকানাটি একটি বৈধ আইপি ঠিকানা এবং উইন্ডোটি বন্ধ করার আগে সংযোগ পরীক্ষা করা হয়েছে</string>
+    <string name="ip_address">আইপি ঠিকানা</string>
+    <string name="test_connection">পরীক্ষামূলক সংযোগ</string>
+    <string name="active_profile">সক্রিয় প্রোফাইল</string>
+    <string name="active_profile_description">ডিভাইসের বর্তমান ব্যবহারকারীকে দেখায়, টেবিলে রাখার আগে নিশ্চিত করুন যে নির্ধারিত টেবিলটি সঠিক</string>
+    <string name="profile_name">প্রোফাইল নাম</string>
+    <string name="logout">প্রস্থান</string>
+    <string name="save">সংরক্ষণ</string>
+    <string name="english">ইংরেজি</string>
+    <string name="order_updated">অর্ডার আপডেট করা হয়েছে</string>
+    <string name="set_ip_address_message">অনুগ্রহ করে প্রথমে আইপি ঠিকানা সেট করুন</string>
+    <string name="successfully_logged_in_message">সফলভাবে লগ ইন</string>
+    <string name="connect">সংযোগ করুন</string>
+    <string name="connected">সংযুক্ত</string>
+    <string name="address_saved_message">ঠিকানা সফলভাবে সংরক্ষণ করা হয়েছে৷</string>
+    <string name="not_available">পাওয়া যায় না</string>
+    <string name="saved_successfully">সফলভাবে সংরক্ষিত</string>
+    <string name="japanese">জাপানিজ</string>
+    <string name="bengali">বাংলা</string>
+    <string name="select_language_message">একটি ভাষা নির্বাচন করুন</string>
+    <string name="select">নির্বাচন করুন</string>
+</resources>

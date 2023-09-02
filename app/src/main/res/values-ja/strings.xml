@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ MIT License
+  ~
+  ~ Copyright (c) 2020 Nauman Khaliq
+  ~
+  -->
+<resources>
+    <string name="app_name">キッチン</string>
+    <string name="text_no_connectivity">接続なし</string>
+    <string name="text_connectivity">オンラインに戻る</string>
+    <string name="text_post_header">投稿ヘッダー</string>
+    <string name="exit_dialog_message">本当に終了しますか？</string>
+    <string name="exit_dialog_title">出口？</string>
+    <string name="option_yes">はい</string>
+    <string name="option_no">いいえ</string>
+    <string name="share_message" translatable="false">\"%s\" by %s. \nVisit: https://github.com/PatilShreyas/Foodium</string>
+    <string name="add">追加</string>
+    <string name="password">パスワード</string>
+    <string name="username">ユーザー名</string>
+    <string name="user_authentication">ユーザ認証</string>
+    <string name="login">ログイン</string>
+    <string name="cancel">キャンセル</string>
+    <string name="connecting">接続中…</string>
+    <string name="deliver">配達</string>
+    <string name="quick_view">クイックビュー</string>
+    <string name="columns">列</string>
+    <string name="merged">マージ</string>
+    <string name="settings">設定</string>
+    <string name="server_address">サーバーアドレス</string>
+    <string name="server_address_description">ウィンドウを閉じる前に、アドレスが有効なIPアドレスであり、接続がテストされていることを確認してください</string>
+    <string name="ip_address">IPアドレス</string>
+    <string name="test_connection">接続のテスト</string>
+    <string name="active_profile">アクティブプロファイル</string>
+    <string name="active_profile_description">デバイスの現在のユーザーを表示します。テーブルに配置する前に、割り当てられたテーブルが正しいことを確認してください</string>
+    <string name="profile_name">プロファイル名</string>
+    <string name="logout">ログアウト</string>
+    <string name="save">保存</string>
+    <string name="english">英語</string>
+    <string name="order_updated">注文が更新されました</string>
+    <string name="set_ip_address_message">最初にIPアドレスを設定してください</string>
+    <string name="successfully_logged_in_message">正常にログインしました</string>
+    <string name="connect">接続</string>
+    <string name="connected">接続済み</string>
+    <string name="address_saved_message">アドレスが正常に保存されました</string>
+    <string name="not_available">利用不可</string>
+    <string name="saved_successfully">正常に保存</string>
+    <string name="japanese">日本</string>
+    <string name="bengali">ベンガル語</string>
+    <string name="select_language_message">言語を選択してください</string>
+    <string name="select">選択する</string>
+</resources>

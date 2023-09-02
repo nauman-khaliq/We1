@@ -1,0 +1,53 @@
+<!--
+  ~ MIT License
+  ~
+  ~ Copyright (c) 2020 Nauman Khaliq
+  ~
+  -->
+
+<resources>
+    <string name="app_name">We1</string>
+    <string name="text_no_connectivity">No Connection</string>
+    <string name="text_connectivity">Back Online</string>
+    <string name="text_post_header">Post Header</string>
+    <string name="exit_dialog_message">Are you sure want to exit?</string>
+    <string name="exit_dialog_title">Exit?</string>
+    <string name="option_yes">Yes</string>
+    <string name="option_no">No</string>
+    <string name="share_message" translatable="false">\"%s\" by %s. \nVisit: https://github.com/PatilShreyas/Foodium</string>
+    <string name="add">Add</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="user_authentication">User Authentication</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="connecting">Connecting…</string>
+    <string name="deliver">Deliver</string>
+    <string name="quick_view">Quick View</string>
+    <string name="columns">Columns</string>
+    <string name="merged">Merged</string>
+    <string name="settings">Settings</string>
+    <string name="server_address">Server Address</string>
+    <string name="server_address_description">Make sure the address is a valid ip address and connection tested before closing the window</string>
+    <string name="ip_address">IP Address</string>
+    <string name="test_connection">Test Connection</string>
+    <string name="active_profile">Active Profile</string>
+    <string name="active_profile_description">Displays the current user of the device, Make sure the assigned table is correct before placing it to table</string>
+    <string name="profile_name">Profile Name</string>
+    <string name="logout">Logout</string>
+    <string name="save">Save</string>
+    <string name="english">English</string>
+    <string name="order_updated">Order Updated</string>
+    <string name="set_ip_address_message">Please set the Ip address first</string>
+    <string name="successfully_logged_in_message">Successfully logged in</string>
+    <string name="connect">Connect</string>
+    <string name="connected">Connected</string>
+    <string name="address_saved_message">Address saved successfully</string>
+    <string name="not_available">Not Available</string>
+    <string name="saved_successfully">Saved successfully</string>
+    <string name="japanese">Japanese</string>
+    <string name="bengali">Bengali</string>
+    <string name="select_language_message">Select a language</string>
+    <string name="select">Select</string>
+
+</resources>
